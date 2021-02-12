@@ -1,4 +1,4 @@
-# budget_tracker
+# Budget Tracker
  Budget Tracker App Built with Flutter
  
  Version 0.1
